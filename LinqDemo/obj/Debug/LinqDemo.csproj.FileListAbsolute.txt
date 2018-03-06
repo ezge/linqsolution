@@ -1,0 +1,8 @@
+c:\users\rea\documents\visual studio 2013\Projects\CSharpTask\LinqDemo\bin\Debug\LinqDemo.exe.config
+c:\users\rea\documents\visual studio 2013\Projects\CSharpTask\LinqDemo\bin\Debug\LinqDemo.exe
+c:\users\rea\documents\visual studio 2013\Projects\CSharpTask\LinqDemo\bin\Debug\LinqDemo.pdb
+c:\users\rea\documents\visual studio 2013\Projects\CSharpTask\LinqDemo\bin\Debug\DataModel.dll
+c:\users\rea\documents\visual studio 2013\Projects\CSharpTask\LinqDemo\bin\Debug\DataModel.pdb
+c:\users\rea\documents\visual studio 2013\Projects\CSharpTask\LinqDemo\obj\Debug\LinqDemo.csprojResolveAssemblyReference.cache
+c:\users\rea\documents\visual studio 2013\Projects\CSharpTask\LinqDemo\obj\Debug\LinqDemo.exe
+c:\users\rea\documents\visual studio 2013\Projects\CSharpTask\LinqDemo\obj\Debug\LinqDemo.pdb

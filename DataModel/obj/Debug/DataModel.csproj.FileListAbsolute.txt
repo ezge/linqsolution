@@ -1,0 +1,5 @@
+c:\users\rea\documents\visual studio 2013\Projects\CSharpTask\DataModel\bin\Debug\DataModel.dll
+c:\users\rea\documents\visual studio 2013\Projects\CSharpTask\DataModel\bin\Debug\DataModel.pdb
+c:\users\rea\documents\visual studio 2013\Projects\CSharpTask\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+c:\users\rea\documents\visual studio 2013\Projects\CSharpTask\DataModel\obj\Debug\DataModel.dll
+c:\users\rea\documents\visual studio 2013\Projects\CSharpTask\DataModel\obj\Debug\DataModel.pdb
